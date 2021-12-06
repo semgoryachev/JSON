@@ -1,1 +1,6 @@
-
+{
+  "title":"Don't click button SignUp to home page",
+  "Step-to-reproduce":["Open home page", "Click to SignUp"],
+  "Expected result":"Open page registration",
+  "Actual result":"Don't open page registration"
+}
