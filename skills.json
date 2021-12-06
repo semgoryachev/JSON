@@ -1,0 +1,16 @@
+{
+"theory":["QA", "QC", "bug-report", "documents", "types of testing", "SDLC", "STLC"],
+"client server architecture":"structure",
+"HTTP requests":["GET","PUT","POST","DELETE"],
+"HTTP responses":["200", "300", "400", "500"],
+"data transmission format":["JSON", "XML"],
+"API":"Postman",
+"logs":"read",
+"sniffing":["Charles", "Fiddler"],
+"DevTools":["Google Chrome", "FireFox"],
+"Mobile testing":["Android", "iOS"],
+"terminal":["mkdir", "mv", "cat", "ls", "cp"],
+"SQL":["Select", "Join"],
+"Postgres":["install", "setup", "use"],
+"load testing":"Jmeter"
+}
